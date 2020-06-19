@@ -5,7 +5,7 @@
 #import <React/RCTDefines.h>
 #import "RCTImageLoader.h"
 #import <React/RCTLog.h>
-#import <React/RCTNetworking.h>
+#import "RCTNetworking.h"
 #import <React/RCTUtils.h>
 #import "RNPFGlobals.h"
 #import "PHAssetsService.h"
