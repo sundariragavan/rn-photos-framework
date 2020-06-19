@@ -1,6 +1,6 @@
 {
   "name": "rn-photos-framework",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "Fork from https://github.com/olofd/react-native-photos-framework with RN 0.60+ issue, removed Android script, lib for IOS only",
   "main": "index.js",
   "directories": {
