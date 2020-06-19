@@ -20,7 +20,7 @@
 #import "PHCache.h"
 #import "RCTImageResizer.h"
 #import "PHVideoExporter.h"
-#import <React/RCTImageLoaderProtocol.h>
+#import "RCTImageLoader.h"
 
 
 @import Photos;
