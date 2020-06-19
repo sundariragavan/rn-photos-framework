@@ -6,7 +6,7 @@
 #import <React/RCTConvert.h>
 #import "RCTConvert+RNPhotosFramework.h"
 #import "RNPFHelpers.h"
-#import <React/RCTImageLoader.h>
+#import "RCTImageLoader.h"
 #import "PHAssetsService.h"
 
 @import Photos;
